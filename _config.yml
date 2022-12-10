@@ -12,6 +12,6 @@ kramdown:
 theme: minima
 minima:
   skin: dark
-author:
-  name: James Marshall
-  email: "marshall.james.c+attnpd@gmail.com"
+  author:
+    name: James Marshall
+    email: "marshall.james.c+attnpd@gmail.com"
