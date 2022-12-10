@@ -1,6 +1,12 @@
-# The Freeze Frame Revolution - Peter Watts
-
-James Marshall - December 9th 2023
+---
+layout: post
+title: "The Freeze Frame Revolution - Peter Watts"
+categories: brief_reviews
+author:
+- James Marshall
+date:
+- December 9th 2023
+---
 
 Hard sci-fi has a problem: the distances between interesting things in the galaxy are too large and the speed of light is too slow for humans to traverse.
 So your tale must either stay within our solar system (such as in "The Expanse") or some physics as we know it conceit must be made (your wormholes, subspace travel, warp speed, etc.).
