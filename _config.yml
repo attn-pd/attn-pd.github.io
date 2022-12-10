@@ -3,6 +3,7 @@ safe: true
 source: ./
 incremental: false
 markdown: GFM
+theme: minima
 highlighter: rouge
 gist:
   noscript: false
