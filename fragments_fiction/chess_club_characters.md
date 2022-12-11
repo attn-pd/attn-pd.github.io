@@ -1,6 +1,11 @@
-# Chess Club Characters
-
-James Marshall
+---
+layout: post
+title: "Chess Club Characters"
+categories: fragments_fiction
+author:
+- James Marshall
+date: 2022-11-30
+---
 
 Two old men sit opposed.
 One, we'll call Frank, sits with a grin, just happy to be there pushing pieces and listening.

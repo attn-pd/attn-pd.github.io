@@ -1,8 +1,12 @@
-# If Then - Matthew Abaitua
+---
+layout: post
+title: "If Then - Matthew Abaitua"
+categories: reviews
+author:
+- James Marshall
+---
 
 __In Progress__
-
-James Marshall
 
 "If Then" is the best interpretation of a post singularity world that I've read. How we got there isn't covered, but it's happened and the residents of a small British town are doing their best to deal.
 

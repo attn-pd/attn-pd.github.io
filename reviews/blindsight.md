@@ -1,10 +1,13 @@
-# Blindsight - Peter Watts
+---
+layout: post
+title: "# Blindsight - Peter Watts"
+categories: reviews
+author:
+- James Marshall
+date: 2022-12-09
+---
 
 __In Progress__
-
-James Marshall
-
-December 9th 2023
 
 Read Peter Watts.
 I've only read two of his novels, ["The Freeze Frame Revolution"](../brief_reviews/the_freeze_frame_revolution.md) being the other, but the only thing stopping me from reading more is A) the finite amount of time I have on this Earth and B) the fact that other excellent authors and books exist.
@@ -14,7 +17,7 @@ TODO: Attempt at a drawing of Theseus
 Blindsight is an argument: there is a central question that Watts is exploring through-out.
 
 The near-future setting is recognizable, probably more so today than 2006 when it was published.
-Babies are getting Gattaca-ed*, folks are Deus Ex-ing themselves with all sorts of augments, and, just FYI: vampires are a thing. Real vampires.
+Babies are getting Gattaca-ed (TODO: footnote), folks are Deus Ex-ing themselves with all sorts of augments, and, just FYI: vampires are a thing. Real vampires.
 
 How good is Blindsight?
 The existance of vampires, while perhaps a bit off-putting at first, actually works.

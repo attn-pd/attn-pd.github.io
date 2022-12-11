@@ -1,8 +1,13 @@
-# The Circle - Dave Eggers
+---
+layout: post
+title: "The Circle - Dave Eggers"
+categories: reviews
+author:
+- James Marshall
+---
 
 __In Progress__
 
-James Marshall 
 
 "The Circle" is an argument's Cliff Notes drawn and quartered into a full length novel that shames the literary tradition. It's a view of the singularity that would result if Deepak (Todo last name), (Todo Kutzwell?), 50 business books, and that fucking Vince Vahn movie where he interns at Google met on an episode of "Will It Blend." This is what books aren't supposed to be.
 
