@@ -4,8 +4,7 @@ title: "The Freeze Frame Revolution - Peter Watts"
 categories: brief_reviews
 author:
 - James Marshall
-date:
-- December 9th 2023
+date: 2022-12-09
 ---
 
 Hard sci-fi has a problem: the distances between interesting things in the galaxy are too large and the speed of light is too slow for humans to traverse.
