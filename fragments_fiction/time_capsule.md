@@ -42,10 +42,43 @@ A few nods.
 
 Don't worry, I'm not going to make you do the math. But you get what I'm saying, right? You could figure it all out." Taylor got a few nods from his inquisitors. "Right, so here's the thing: the Earth is so massive that I would need to launch all of Texas before our year lost a second. Roughly."
 
-It seemed like they ....
+He got a few nods, but most the students seemed to be staring at certain spot behind Taylor's head and he had a sneaking suspicion that there was a clock there. At least the idea seemed to get through to them, he thought, and the most difficult talk of his life was almost over.
+
+"All right class," the teacher rose, "lets give a big thank you to Dr. Taylor for comming in today."
+
+As if on cue the bell range and Taylor got a few muffled thanks as the students began filing out. He saw one student hanging back a bit to ask a question. Taylor started sorting through what the kid might want, career advice, a follow question?
+
+"Hey Doc," the kid brushed his long hair out of his eyes, "at least you figured out how to get rid of Texas, huh?"
 
 --- 
 
-The class wraps up with a student making a joke that hey, at least you launched Texas into deep space.
+"Soooo, how was the talk?"
+
+"It was fine. I don't want to talk about it. What's up?" 
+It wasn't like Colleen to send text messages, and leave a voicemail, and to call.
+Surely it wasn't just to rib him about the high school talk.
+Colleen, also an astrophysics PhD and deputy on the project, could empathize with just how much Taylor disliked public speaking because she was the only one on the team who disliked it more.
+
+"Well, we've been going over the latest data from atlantis system."
+
+"That's the second round of observations there, right."
+
+"Yup. And. Well, things aren't lining up." Colleen feel silent.
+
+"Aren't lining up? How?"
+
+"Some of the orbital periods are off."
+
+The Shields spacecraft, named after the early exoplanet research Aomawa Shields, was able to detect planets in the same way as early planet hunters like Kepler: by recording the slight dimming of a star as a planet transited between it and our solar system many light years away.
+If Shields hadn't run through the mathmatics of the telescope himself several times he wouldn't actually believe that such a slight dimming of a distant star could be measured.
+And the results where hard to argure with: hundreds of thousands of planets had been discovered this way.
+
+Shields was an evolution of this technology: it improved upon previous attempts by using a massive star shade to obscure all light from the surronding stars.
+The shade was a second spacecraft unto itself which had to keep it's position in precise alignment with the main telescope of Shields.
+
+
+
+
+
 
 This is all exposition for the main store: Taylor's team spots a planet that seems to have recently had a major shortening of its orbital period. They figure out that the only realistic explanation is that the planet is being used for MASSIVE slingshot maneuvers. The rest is just figuring out what that could mean (like a mass migration or invasion)...
