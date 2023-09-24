@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# Blindsight - Peter Watts"
+title: "Blindsight - Peter Watts"
 categories: reviews
 author:
 - James Marshall

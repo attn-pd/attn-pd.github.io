@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time Capsule"
-categories: fragments_fiction
+categories: fiction_fragments
 author:
 - James Marshall
 date: 2022-02-02

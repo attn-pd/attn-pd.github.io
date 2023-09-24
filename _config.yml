@@ -12,5 +12,5 @@ kramdown:
 theme: minima
 header_pages:
   - brief_reviews/brief_reviews.md
-  - reviews/if_then.md
-  - fragments_fiction/time_capsule.md
+  - reviews/reviews.md
+  - fiction_fragments/fiction_fragments.md
