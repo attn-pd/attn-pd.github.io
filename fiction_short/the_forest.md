@@ -14,6 +14,7 @@ His eyes shifted to mine in the reflection.
 He stepped outside.
 
 ---
+</br>
 
 "Beach outside!" He shouted, letting the door slam behind him.
 
@@ -43,6 +44,7 @@ Everything is fantastical, who's to say he didn't visit a beach.
 That he doesn't believe it?
 
 ---
+</br>
 
 "Dark forest!"
 
@@ -68,6 +70,7 @@ All I could see was our reflection and inky blackness beyond.
 "Els!" He ran off to take another bite of breakfast and knock down the tower he built just a few minutes ago.
 
 ---
+</br>
 
 It was raining, and I had a choice of either dealing with a wet kid or a disappointed kid.
 Maybe he would forget this morning, pick up a new game.
@@ -82,6 +85,7 @@ Did I smell pine?
 Like when we bring home a fresh cut Christmas tree.
 
 ---
+</br>
 
 "Forest!"
 
@@ -105,6 +109,7 @@ No forest, barely any trees.
 Certainly no elves.
 
 ---
+</br>
 
 "Els!" The glass door slammed shut. "They want to play more."
 
@@ -120,6 +125,7 @@ I figured there was a fifty fifty chance he would actually get socks on.
 I threw an apple in my bag and grabbed his lunch from the fridge.
 
 ---
+</br>
 
 Another morning, too early.
 He was already out the back door, I stared through my reflection to the blackness beyond and sipped my fresh coffee.
@@ -129,6 +135,7 @@ His little morning adventures.
 I could swear I heard wind rustling through trees.
 
 ---
+</br>
 
 I put the cold dregs of coffee down next to the paper.
 It was almost time to get ready, how long had he been out there?
