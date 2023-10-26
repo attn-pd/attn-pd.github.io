@@ -77,7 +77,7 @@ Maybe he would forget this morning, pick up a new game.
 
 "I want to go outside." He was reaching for the door knob.
 
-Oh well, I thought, I have to change him before daycare anyways. "Alright buddy, hold on." The deadbolt gave a satisfying think as I turned the lock, then opened the door.
+Oh well, I thought, I have to change him before daycare anyways. "Alright buddy, hold on." The deadbolt gave a satisfying thunk as I turned the lock, then opened the door.
 
 He practically threw himself out, into the black.
 I let the glass door slowly close, taking a deep breath of cold air.
