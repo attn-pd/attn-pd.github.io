@@ -12,7 +12,7 @@ __In Progress__
 Read Peter Watts.
 I've only read two of his novels, ["The Freeze Frame Revolution"](../brief_reviews/the_freeze_frame_revolution.md) being the other, but the only thing stopping me from reading more is A) the finite amount of time I have on this Earth and B) the fact that other excellent authors and books exist.
 
-TODO: Attempt at a drawing of Theseus
+![The ship Theseus over Big Ben](blindsight_theseus.jpg)
 
 Blindsight is an argument: there is a central question that Watts is exploring through-out.
 
