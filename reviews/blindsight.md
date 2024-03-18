@@ -10,7 +10,7 @@ date: 2022-12-09
 __In Progress__
 
 Read Peter Watts.
-I've only read two of his novels, ["The Freeze Frame Revolution"](../brief_reviews/the_freeze_frame_revolution.md) being the other, but the only thing stopping me from reading more is A) the finite amount of time I have on this Earth and B) the fact that other excellent authors and books exist.
+I've only read two of his novels[^1], ["The Freeze Frame Revolution"](../brief_reviews/the_freeze_frame_revolution.md) being the other, but the only thing stopping me from reading more is A) the finite amount of time I have on this Earth and B) the fact that other excellent authors and books exist.
 
 ![The ship Theseus over Big Ben](blindsight_theseus.jpg)
 
@@ -27,3 +27,5 @@ Hard sci-fi with blood sucking monster of myth and it totally works.
 
 
 TODO: Footnote: Gattaca came out in 1997!
+
+[^1]: I have since read "Starfish". Would also recommend: it is good, just not as good as Freeze Frame and Blindsight.
