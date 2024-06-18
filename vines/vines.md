@@ -4,7 +4,33 @@ title: "Vines"
 categories: fiction vines
 author:
 - James Marshall
-date: 2019
+date: 2024-06-17
+---
+
+Note: Mixing in new text with the old. Lots to edit. I originally tried to make this shorter, but honestly, it needs to be longer.
+
+TODO: Find the notebook illustration of her house and short description.
+
+TODO: Drop the HOA thing. Really?
+
+Think of Mariana's student that was pissed Mar wasn't doing more to save the world.
+
+---
+
+"You're a bird that doesn't care for heights."
+
+"Never figured you for the poetic type."
+
+"Maybe you aught to be doing more figuring then."
+
+---
+
+"It's time to wake the fuck up. This is happening. Are you watching or helping?"
+
+---
+
+She put in her days, then came home to tend her garden. Out back, not visible from the quiet suburban street.
+
 ---
 
 It was the home owners associations of all things that sounded the alarm. The retirees on the boards tried everything they could to coerce their neighbors to do something about the encroaching vines. But soon not even the most dedicated busy bodies could keep up with the wild growth.
