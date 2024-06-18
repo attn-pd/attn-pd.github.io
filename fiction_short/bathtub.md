@@ -28,7 +28,7 @@ She knew it wouldn't be too hard to make it help her.
 And would it be _so_ bad for her let an AI help her out?
 She was proud to write by hand, damn it, but honestly, why not let the machines have this one too?
 "It's not like I'm against machines helping out, I'm not a complete luddite," she thought as her eyes involuntarily flitted to her vibrator on a shelf next to her conditioner.
-These new large language things seemed different, but was it _really_.
+These new large language things seemed different, but was it _really_?
 
 Who was she to deny progress?
 Did her predecessors bitch about the type writer?
