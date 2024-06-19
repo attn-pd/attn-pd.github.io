@@ -4,6 +4,8 @@ title: "Brief Reviews"
 categories: brief_reviews
 ---
 
+[Galapagos by Kurt Vonnegut](galapagos.md)
+
 [Exadelic by Jon Evans](exadelic.md)
 
 [The Freeze Frame Revolution by Peter Watts](the_freeze_frame_revolution.md)
