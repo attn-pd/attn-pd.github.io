@@ -17,6 +17,16 @@ Think of Mariana's student that was pissed Mar wasn't doing more to save the wor
 
 ---
 
+Her house was a mid-century craftsmen, or at least that's what she called it. Single story, full length porch, and asymetrical windows giving it an unbalanced look.
+
+The door was a shocking blue. It was the first, and last, thing she had changed when she moved in almost twenty years ago.
+
+She loved the massive oak that shaded the back. That too would be consumed by the vines.
+
+![House with a blue door](blue_door.jpg)
+
+---
+
 "You're a bird that doesn't care for heights."
 
 "Never figured you for the poetic type."
