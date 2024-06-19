@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Forest"
+title: "Stars - Chapter 1"
 categories: fiction stars
 author:
 - James Marshall
