@@ -4,6 +4,8 @@ title: "Brief Reviews"
 categories: brief_reviews
 ---
 
+[The Name of the World by Denis Johnson](the_name_of_the_world.md)
+
 [Galapagos by Kurt Vonnegut](galapagos.md)
 
 [Exadelic by Jon Evans](exadelic.md)
