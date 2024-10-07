@@ -8,6 +8,7 @@ Well, the dark them doesn't seem to be working.
 Most recent updates: 
 
 
+- [Short Fiction: Windfall](fiction_short/windfall.md)
 - [Brief Review: Trust - Hernan Diaz](brief_reviews/trust.md)
 - [Brief Review: The Name of the World - Denis Johnson](brief_reviews/the_name_of_the_world.md)
 - [Brief Review: Galapagos - Kurt Vonnegut](brief_reviews/galapagos.md)
