@@ -7,6 +7,8 @@ author:
 date: 2024-12-29
 ---
 
+:>_
+
 "What's the deal with the green text?"
 
 The sharp intrusion annoyed Wilbur.
@@ -67,7 +69,7 @@ Wilbur had. Every rainy day. "No. It's not a big deal. She has her reasons I'm s
 "What're you getting at? I said I don't care."
 
 The help raised their hands in placation. "Alright alright. Just asking."
-They went back to the kitchen, but called back over their should, "Hey, what say you I make eat lunch with you? I'm making you a sandwich now I need to take my break anyways."
+They went back to the kitchen, but called back over their should, "Hey, what say you I eat lunch with you? I'm making you a sandwich now I need to take my break anyways."
 
 "No."
 
@@ -95,9 +97,9 @@ From the kitchen again, "You know, I read that those AIs have been throttling ou
 
 : Of course silly.
 
-"Some bullshit if you ask me. They were supposed to keep the lights on right? That was the deal." The help sat a plate with a sandwich and plate down at the desk next to Wilbur.
+"Some bullshit if you ask me. They were supposed to keep the lights on right? That was the deal." The help sat a plate with a sandwich, baby carrots, and chips down at the desk next to Wilbur.
 
-"Well, I guess I'm off then." But the help hovered a moment.
+"Well, I guess I'm off then." The help hovered a moment.
 
 "Bye."
 
