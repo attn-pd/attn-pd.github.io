@@ -7,7 +7,9 @@ categories: fiction_short
 
 # Completed
 
-[Windfall by Jamess](windfall.md)
+[Wibur by James Marshall](wilbur.md)
+
+[Windfall by James Marshall](windfall.md)
 
 [Bathtub by James Marshall](bathtub.md)
 
