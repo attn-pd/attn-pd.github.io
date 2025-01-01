@@ -68,8 +68,8 @@ Wilbur had. Every rainy day. "No. It's not a big deal. She has her reasons I'm s
 
 "What're you getting at? I said I don't care."
 
-The help raised their hands in placation. "Alright alright. Just asking."
-They went back to the kitchen, but called back over their should, "Hey, what say you I eat lunch with you? I'm making you a sandwich now I need to take my break anyways."
+The help raised a hand in placation. "Alright alright. Just asking."
+They went back to the kitchen, but called back over their should, "Hey, what you say I eat lunch with you? I'm making you a sandwich now and I need to take my break anyways."
 
 "No."
 
@@ -103,7 +103,7 @@ From the kitchen again, "You know, I read that those AIs have been throttling ou
 
 "Bye."
 
-The help turned and left, locking the apartment down behind them.
+The help turned and left, locking the apartment door behind them.
 
 :> I feel so tired Sally. Alone._
 
