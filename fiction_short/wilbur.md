@@ -69,7 +69,7 @@ Wilbur had. Every rainy day. "No. It's not a big deal. She has her reasons I'm s
 "What're you getting at? I said I don't care."
 
 The help raised a hand in placation. "Alright alright. Just asking."
-They went back to the kitchen, but called back over their should, "Hey, what you say I eat lunch with you? I'm making you a sandwich now and I need to take my break anyways."
+They went back to the kitchen, but called back over their shoulder, "Hey, what you say I eat lunch with you? I'm making your sandwich now and I need to take my break anyways."
 
 "No."
 
